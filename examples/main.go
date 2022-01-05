@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/rocketgate/rocketgate-go-sdk/request"
-	"github.com/rocketgate/rocketgate-go-sdk/response"
-	"github.com/rocketgate/rocketgate-go-sdk/service"
+	"github.com/rlcooper46/rocketgate-go-sdk/request"
+	"github.com/rlcooper46/rocketgate-go-sdk/response"
+	"github.com/rlcooper46/rocketgate-go-sdk/service"
 )
 
 func main() {

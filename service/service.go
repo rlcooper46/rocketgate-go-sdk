@@ -2,8 +2,8 @@ package service
 
 import (
 	"fmt"
-	"github.com/rocketgate/rocketgate-go-sdk/request"
-	"github.com/rocketgate/rocketgate-go-sdk/response"
+	"github.com/rlcooper46/rocketgate-go-sdk/request"
+	"github.com/rlcooper46/rocketgate-go-sdk/response"
 	"io/ioutil"
 	"math/rand"
 	"net"

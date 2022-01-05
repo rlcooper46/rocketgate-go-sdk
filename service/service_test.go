@@ -2,7 +2,7 @@ package service
 
 import (
 	"fmt"
-	"github.com/rocketgate/rocketgate-go-sdk/request"
+	"github.com/rlcooper46/rocketgate-go-sdk/request"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
