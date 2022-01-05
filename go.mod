@@ -1,4 +1,4 @@
-module github.com/rocketgate/rocketgate-go-sdk
+module github.com/rlcooper46/rocketgate-go-sdk
 
 go 1.17
 
